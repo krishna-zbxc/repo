@@ -8,15 +8,9 @@ using namespace std;
 int main() {
     int i=1;
     int sum=0;
-
-    
-    
-
     for (int i = 1; i <= 5; ++i) {
       cout << i << " "   ;
     }
-
-    
 
     return 0;
 }
